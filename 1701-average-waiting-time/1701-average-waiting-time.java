@@ -1,22 +1,16 @@
 class Solution {
     public double averageWaitingTime(int[][] customers) {
-        int sum = customers[0][0] + customers[0][1];
-        double time = customers[0][1];
+        long curr = 0;
+        long wait = 0;
 
-        for (int i = 1; i < customers.length; i++) {
-            if (customers[i][0] <= sum) {
-                sum += customers[i][1];
-                time += (sum - customers[i][0]);
-            } else {
-                while (sum < customers[i][0]) {
-                    sum++;
-                }
+        for (int[] customer : customers) {
+            int arrival = customer[0];
+            int finish = customer[1];
 
-                sum += customers[i][1];
-                time += (sum - customers[i][0]);
-            }
+            curr = Math.max(curr, arrival) + finish;
+            wait += curr - arrival;
         }
 
-        return (time) / customers.length;
+        return (double) wait / customers.length;
     }
 }
