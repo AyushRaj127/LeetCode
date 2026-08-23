@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AyushRaj127/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushRaj127/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/AyushRaj127/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1701-average-waiting-time](https://github.com/AyushRaj127/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushRaj127/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -29,6 +30,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AyushRaj127/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -79,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushRaj127/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AyushRaj127/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
