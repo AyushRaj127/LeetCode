@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AyushRaj127/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/AyushRaj127/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushRaj127/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/AyushRaj127/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1046-last-stone-weight](https://github.com/AyushRaj127/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AyushRaj127/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/AyushRaj127/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AyushRaj127/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushRaj127/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
