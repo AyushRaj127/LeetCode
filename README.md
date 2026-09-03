@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AyushRaj127/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/AyushRaj127/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AyushRaj127/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushRaj127/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -114,6 +115,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AyushRaj127/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AyushRaj127/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AyushRaj127/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Stack
