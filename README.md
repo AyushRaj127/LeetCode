@@ -68,6 +68,7 @@
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/AyushRaj127/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AyushRaj127/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0836-rectangle-overlap](https://github.com/AyushRaj127/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushRaj127/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/AyushRaj127/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/AyushRaj127/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -148,4 +149,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushRaj127/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/AyushRaj127/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
