@@ -72,6 +72,7 @@
 | [0371-sum-of-two-integers](https://github.com/AyushRaj127/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/AyushRaj127/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushRaj127/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/AyushRaj127/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/AyushRaj127/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -172,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +182,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
