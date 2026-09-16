@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AyushRaj127/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj127/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyushRaj127/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/AyushRaj127/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0078-subsets](https://github.com/AyushRaj127/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AyushRaj127/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AyushRaj127/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AyushRaj127/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
