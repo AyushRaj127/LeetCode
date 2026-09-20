@@ -53,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AyushRaj127/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AyushRaj127/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -160,6 +161,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/AyushRaj127/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -183,6 +185,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
@@ -194,4 +197,8 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
