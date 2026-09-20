@@ -56,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AyushRaj127/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushRaj127/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1701-average-waiting-time](https://github.com/AyushRaj127/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushRaj127/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/AyushRaj127/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
