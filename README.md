@@ -49,6 +49,7 @@
 | [0141-linked-list-cycle](https://github.com/AyushRaj127/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AyushRaj127/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/AyushRaj127/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
@@ -187,6 +189,7 @@
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushRaj127/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
