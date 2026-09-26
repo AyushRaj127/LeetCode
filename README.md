@@ -65,6 +65,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AyushRaj127/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AyushRaj127/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -82,6 +83,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1701-average-waiting-time](https://github.com/AyushRaj127/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushRaj127/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -90,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AyushRaj127/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushRaj127/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/AyushRaj127/LeetCode/tree/main/0204-count-primes/) | Medium |
