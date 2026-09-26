@@ -10,19 +10,9 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '(') {
-                StringBuilder sb = new StringBuilder();
-                i++;
-
-                while (s.charAt(i) != ')') {
-                    sb.append(s.charAt(i));
-                    i++;
-                }
-
-                if (seen.containsKey(sb.toString())) {
-                    ans.append(seen.get(sb.toString()));
-                } else {
-                    ans.append("?");
-                }
+                int j = s.indexOf(")", i + 1);
+                ans.append(seen.getOrDefault(s.substring(i + 1, j), "?"));
+                i = j;
             } else {
                 ans.append(s.charAt(i));
             }
