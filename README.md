@@ -21,6 +21,7 @@
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1046-last-stone-weight](https://github.com/AyushRaj127/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushRaj127/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/AyushRaj127/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AyushRaj127/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1701-average-waiting-time](https://github.com/AyushRaj127/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AyushRaj127/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -192,6 +193,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0278-first-bad-version](https://github.com/AyushRaj127/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AyushRaj127/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/AyushRaj127/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AyushRaj127/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
