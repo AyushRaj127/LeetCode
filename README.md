@@ -68,6 +68,7 @@
 | [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AyushRaj127/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AyushRaj127/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -209,6 +210,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushRaj127/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -254,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
