@@ -103,6 +103,7 @@
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/AyushRaj127/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/AyushRaj127/LeetCode/tree/main/1922-count-good-numbers/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AyushRaj127/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushRaj127/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushRaj127/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -249,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/AyushRaj127/LeetCode/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
