@@ -75,6 +75,7 @@
 | [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AyushRaj127/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -237,6 +238,7 @@
 | [0040-combination-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/AyushRaj127/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AyushRaj127/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -259,6 +261,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Recursion
