@@ -42,6 +42,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/AyushRaj127/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AyushRaj127/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/AyushRaj127/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AyushRaj127/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/AyushRaj127/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AyushRaj127/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -229,6 +231,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/AyushRaj127/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
