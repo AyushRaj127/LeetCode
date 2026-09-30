@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/AyushRaj127/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushRaj127/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/AyushRaj127/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/AyushRaj127/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -233,6 +234,7 @@
 | [0040-combination-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/AyushRaj127/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/AyushRaj127/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
