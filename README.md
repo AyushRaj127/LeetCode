@@ -61,6 +61,7 @@
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AyushRaj127/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0541-reverse-string-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
@@ -80,6 +81,7 @@
 | [0079-word-search](https://github.com/AyushRaj127/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0541-reverse-string-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
