@@ -23,6 +23,7 @@
 | [0303-range-sum-query-immutable](https://github.com/AyushRaj127/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1046-last-stone-weight](https://github.com/AyushRaj127/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushRaj127/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AyushRaj127/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -329,6 +330,7 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/AyushRaj127/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
