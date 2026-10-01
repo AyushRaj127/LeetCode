@@ -71,6 +71,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AyushRaj127/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushRaj127/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AyushRaj127/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -223,6 +224,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushRaj127/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -277,6 +279,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
