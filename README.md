@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/AyushRaj127/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/AyushRaj127/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/AyushRaj127/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/AyushRaj127/LeetCode/tree/main/0079-word-search/) | Medium |
@@ -248,6 +249,7 @@
 | [0022-generate-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/AyushRaj127/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/AyushRaj127/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/AyushRaj127/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0090-subsets-ii/) | Medium |
@@ -349,4 +351,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/AyushRaj127/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
