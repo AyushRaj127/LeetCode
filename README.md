@@ -86,6 +86,7 @@
 | [0079-word-search](https://github.com/AyushRaj127/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0541-reverse-string-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0796-rotate-string](https://github.com/AyushRaj127/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -171,6 +172,7 @@
 | [0101-symmetric-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/AyushRaj127/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
@@ -263,6 +265,7 @@
 | [0090-subsets-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AyushRaj127/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
