@@ -88,6 +88,7 @@
 | [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0541-reverse-string-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0796-rotate-string](https://github.com/AyushRaj127/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushRaj127/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushRaj127/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -328,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/AyushRaj127/LeetCode/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
