@@ -1,48 +1,26 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
+        boolean[][] rows = new boolean[9][9];
+        boolean[][] cols = new boolean[9][9];
+        boolean[][] boxes = new boolean[9][9];
+
         for (int row = 0; row < 9; row++) {
-            Set<Character> seen = new HashSet<>();
-            
             for (int col = 0; col < 9; col++) {
-                if (seen.contains(board[row][col])) {
+
+                if (board[row][col] == '.') {
+                    continue;
+                }
+
+                int num = board[row][col] - '1';
+                int box = (row / 3) * 3 + (col / 3);
+
+                if (rows[row][num] || cols[col][num] || boxes[box][num]) {
                     return false;
                 }
 
-                if (board[row][col] != '.') {
-                    seen.add(board[row][col]);
-                }
-            }
-        }
-
-        for (int col = 0; col < 9; col++) {
-            Set<Character> seen = new HashSet<>();
-            
-            for (int row = 0; row < 9; row++) {
-                if (seen.contains(board[row][col])) {
-                    return false;
-                }
-
-                if (board[row][col] != '.') {
-                    seen.add(board[row][col]);
-                }
-            }
-        }
-
-        for (int row = 0; row < 9; row += 3) {
-            for (int col = 0; col < 9; col += 3) {
-                Set<Character> seen = new HashSet<>();
-
-                for (int i = row; i < row + 3; i++) {
-                    for (int j = col; j < col + 3; j++) {
-                        if (seen.contains(board[i][j])) {
-                            return false;
-                        }
-
-                        if (board[i][j] != '.') {
-                            seen.add(board[i][j]);
-                        }
-                    }
-                }
+                rows[row][num] = true;
+                cols[col][num] = true;
+                boxes[box][num] = true;
             }
         }
 
