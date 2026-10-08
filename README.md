@@ -39,6 +39,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaj127/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AyushRaj127/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/AyushRaj127/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushRaj127/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushRaj127/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushRaj127/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -75,6 +76,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushRaj127/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaj127/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/AyushRaj127/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
