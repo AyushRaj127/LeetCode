@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/AyushRaj127/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/AyushRaj127/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/AyushRaj127/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/AyushRaj127/LeetCode/tree/main/0079-word-search/) | Medium |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/AyushRaj127/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1701-average-waiting-time](https://github.com/AyushRaj127/LeetCode/tree/main/1701-average-waiting-time/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushRaj127/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -356,6 +358,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/AyushRaj127/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
