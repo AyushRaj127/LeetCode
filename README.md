@@ -109,6 +109,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AyushRaj127/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/AyushRaj127/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -206,6 +207,7 @@
 | [0371-sum-of-two-integers](https://github.com/AyushRaj127/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/AyushRaj127/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/AyushRaj127/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AyushRaj127/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@
 | [0131-palindrome-partitioning](https://github.com/AyushRaj127/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AyushRaj127/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AyushRaj127/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
