@@ -108,6 +108,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AyushRaj127/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2409-count-days-spent-together](https://github.com/AyushRaj127/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AyushRaj127/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/AyushRaj127/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -143,6 +144,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/AyushRaj127/LeetCode/tree/main/1922-count-good-numbers/) | Medium |
+| [2409-count-days-spent-together](https://github.com/AyushRaj127/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AyushRaj127/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/AyushRaj127/LeetCode/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushRaj127/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
