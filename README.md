@@ -176,6 +176,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/AyushRaj127/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/AyushRaj127/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/AyushRaj127/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@
 | [0572-subtree-of-another-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/AyushRaj127/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
