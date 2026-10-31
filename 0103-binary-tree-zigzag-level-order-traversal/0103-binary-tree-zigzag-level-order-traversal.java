@@ -23,6 +23,7 @@ class Solution {
 
         Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(root);
+        boolean zigzag = true;
 
         while (!q.isEmpty()) {
             int size = q.size();
@@ -30,7 +31,11 @@ class Solution {
 
             for (int i = 0; i < size; i++) {
                 TreeNode current = q.poll();
-                level.add(current.val);
+                if (zigzag) {
+                    level.add(current.val);
+                } else {
+                    level.add(0, current.val);
+                }
 
                 if (current.left != null) {
                     q.offer(current.left);
@@ -41,13 +46,8 @@ class Solution {
                 }
             }
 
+            zigzag = !zigzag;
             result.add(level);
-        }
-
-        for (int i = 0; i < result.size(); i++) {
-            if (i % 2 != 0) {
-                Collections.reverse(result.get(i));
-            }
         }
 
         return result;
