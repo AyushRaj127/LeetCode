@@ -157,6 +157,7 @@
 | [0263-ugly-number](https://github.com/AyushRaj127/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AyushRaj127/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/AyushRaj127/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/AyushRaj127/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/AyushRaj127/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -302,6 +303,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushRaj127/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushRaj127/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -334,6 +336,7 @@
 | [0002-add-two-numbers](https://github.com/AyushRaj127/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AyushRaj127/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AyushRaj127/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushRaj127/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
