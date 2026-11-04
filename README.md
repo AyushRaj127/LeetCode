@@ -82,6 +82,7 @@
 | [0541-reverse-string-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushRaj127/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0925-long-pressed-name](https://github.com/AyushRaj127/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushRaj127/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AyushRaj127/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -113,6 +114,7 @@
 | [0796-rotate-string](https://github.com/AyushRaj127/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushRaj127/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushRaj127/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0925-long-pressed-name](https://github.com/AyushRaj127/LeetCode/tree/main/0925-long-pressed-name/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
