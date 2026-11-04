@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushRaj127/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AyushRaj127/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/AyushRaj127/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0455-assign-cookies](https://github.com/AyushRaj127/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/AyushRaj127/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/AyushRaj127/LeetCode/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -76,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/AyushRaj127/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AyushRaj127/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/AyushRaj127/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0455-assign-cookies](https://github.com/AyushRaj127/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushRaj127/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -85,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AyushRaj127/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0455-assign-cookies](https://github.com/AyushRaj127/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushRaj127/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaj127/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -251,6 +254,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushRaj127/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/AyushRaj127/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushRaj127/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushRaj127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -435,4 +439,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/AyushRaj127/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/AyushRaj127/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
