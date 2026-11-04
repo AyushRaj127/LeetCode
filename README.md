@@ -44,6 +44,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushRaj127/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushRaj127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaj127/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AyushRaj127/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AyushRaj127/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AyushRaj127/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AyushRaj127/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -83,6 +84,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/AyushRaj127/LeetCode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/AyushRaj127/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AyushRaj127/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AyushRaj127/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +93,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushRaj127/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/AyushRaj127/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaj127/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AyushRaj127/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/AyushRaj127/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -258,6 +261,7 @@
 | [0692-top-k-frequent-words](https://github.com/AyushRaj127/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyushRaj127/LeetCode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AyushRaj127/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AyushRaj127/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
