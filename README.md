@@ -186,6 +186,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -203,6 +204,7 @@
 | [0101-symmetric-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -221,6 +223,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushRaj127/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/AyushRaj127/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AyushRaj127/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -236,6 +239,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/AyushRaj127/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/AyushRaj127/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushRaj127/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
