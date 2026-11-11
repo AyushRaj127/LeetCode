@@ -100,6 +100,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AyushRaj127/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AyushRaj127/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/AyushRaj127/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AyushRaj127/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushRaj127/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AyushRaj127/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AyushRaj127/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AyushRaj127/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/AyushRaj127/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/AyushRaj127/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AyushRaj127/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
