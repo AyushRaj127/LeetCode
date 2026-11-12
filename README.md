@@ -52,6 +52,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/AyushRaj127/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/AyushRaj127/LeetCode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AyushRaj127/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AyushRaj127/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AyushRaj127/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AyushRaj127/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AyushRaj127/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
